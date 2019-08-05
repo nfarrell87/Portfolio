@@ -1,0 +1,25 @@
+.navbar {
+    background-image: url(../images/coderBanner.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: #111111;
+}
+body {
+    background-color: #111111;
+}
+.mernLogo {
+    display: inline-block;
+    height: 5%;
+    width: 10%;
+}
+.page-footer {
+    background-color: #111111;
+    bottom: 0;
+    width: 100%;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar {
+      background:#111111;
+    }
+  }
