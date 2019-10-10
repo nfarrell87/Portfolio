@@ -17,6 +17,15 @@ body {
     bottom: 0;
     width: 100%;
 }
+.featuredtext {
+    color: white;
+    text-align: center;
+    display: block;
+}
+.earlyworkstext {
+    color: white;
+    text-align: center;
+}
 .card {
     display: inline-block;
     margin: 10px;
