@@ -23,7 +23,7 @@ body {
 }
 .wide {
     margin: 0 auto;
-    min-width: 1800px;
+    max-width: 1850px;
 }
 .cardrow {
     margin: 0 auto;
