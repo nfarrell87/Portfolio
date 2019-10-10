@@ -30,6 +30,14 @@ body {
     display: inline-block;
     margin: 10px;
 }
+.cardBtn1 {
+    position: absolute;
+    bottom: 90px;
+}
+.cardBtn2 {
+    position: absolute;
+    bottom: 20px;
+}
 .wide {
     margin: 0 auto;
     max-width: 1850px;
